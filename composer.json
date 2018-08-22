@@ -28,9 +28,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "symfony/framework-bundle": "~2.7|~3.0",
-        "doctrine/orm": "~2.2"
+        "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": { "Lexik\\Bundle\\WorkflowBundle\\": "" }
